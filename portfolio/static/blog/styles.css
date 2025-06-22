@@ -64,8 +64,11 @@ hr.no-margin {
 }
 
 .profile img {
+  /* max-height: 55vh; */
   width: 100%;
   margin-bottom: 50px;
+  /* display: block; */
+  /* object-fit: ; */
 }
 
 h1,
